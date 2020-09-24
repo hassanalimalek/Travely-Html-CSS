@@ -129,7 +129,7 @@ a{
     right: 0;
     /* opacity: 0.5; */
     z-index: -7;
-    
+     animation: cloud-1-animation 7s linear infinite;
 }
 .cloud_2{
     z-index: 0;
@@ -154,6 +154,20 @@ a{
     z-index: -19;
     animation: cloud-5-animation 10s linear infinite;
 
+}
+@keyframes cloud-1-animation{
+    0%{
+        transform: translate(0%,0%);
+    }
+    50%{
+        transform: translate(5%,0%);
+    }
+    75%{
+        transform: translate(6%,0%);
+    }
+    100%{
+        transform: translate(0,0);
+    }
 }
 @keyframes cloud-2-animation{
     0%{
