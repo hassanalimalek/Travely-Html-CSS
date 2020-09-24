@@ -135,24 +135,24 @@ a{
     z-index: 0;
     right: 5rem;
     z-index: -8;
-    animation: cloud-2-animation 15s linear infinite;
+    animation: cloud-2-animation 5s linear infinite;
 }
 .cloud_3{
     right: 10rem;
     z-index: -9;
-    animation: cloud-3-animation 17s linear infinite;
+    animation: cloud-3-animation 6s linear infinite;
 
 }
 .cloud_4{
     right: 12rem;
     z-index: -10;
-    animation: cloud-4-animation 25s linear infinite;
+    animation: cloud-4-animation 9s linear infinite;
 
 }
 .cloud_5{
     right: 14rem;
     z-index: -19;
-    animation: cloud-5-animation 20s linear infinite;
+    animation: cloud-5-animation 10s linear infinite;
 
 }
 @keyframes cloud-2-animation{
