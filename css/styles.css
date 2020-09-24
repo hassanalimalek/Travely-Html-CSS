@@ -104,7 +104,7 @@ a{
 /* Location */
 .location{
     height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.1)) , url('../img/new-york-page.jpg') center/cover no-repeat;
+    background:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.1)) , url('../img/new-york-page.png') center/cover no-repeat;
     color: black;
     display: flex;
     align-items: center;
