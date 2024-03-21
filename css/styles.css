@@ -30,7 +30,7 @@ a{
 
 .nav_bar{
     background-color: #131c27;
-    min-height: 10vh;
+    min-height: 5vh;
     padding: 1rem;
 }
 .nav_container{
@@ -63,7 +63,7 @@ a{
 
 /* Hero Section */
 .hero{
-    height: 90vh;
+    height: 95vh;
     background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)) , url('../img/landing-page.jpg') center/cover no-repeat;
 }
    
